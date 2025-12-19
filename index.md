@@ -14,3 +14,7 @@ console.log("Hello World")
 ```
 $ git commit -m "Initial Commit" -S
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
