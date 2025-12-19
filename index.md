@@ -6,3 +6,11 @@
 ###### Heading 6 <h6>
 
 ![Music](https://avatars.githubusercontent.com/u/94969757?v=4)
+
+```javascript
+console.log("Hello World")
+```
+
+```
+$ git commit -m "Initial Commit" -S
+```
